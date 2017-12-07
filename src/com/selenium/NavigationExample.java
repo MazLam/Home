@@ -27,6 +27,6 @@ public class NavigationExample
 	navigate.refresh(); // refresh ; Driver.navigate().refresh();
 	Thread.sleep(2*1000);
 	Driver.close();
-	// need to add more code 
+
 	}	
 }
